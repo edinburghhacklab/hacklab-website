@@ -30,7 +30,7 @@ Organisational Stuff
 --------------------
 Edinburgh Hacklab Ltd is a non-profit company limited by guarantee.
 Our company number is SC427746 and our registered office is: 1 Summerhall, Edinburgh, EH9 1PL.
-:download:`Articles of Association <docs/hacklab_articles_2015-04-22.pdf>`.
+:download:`Articles of Association <docs/hacklab_articles_2019-05-27.pdf>`.
 
 Mailing lists and social networks
 ---------------------------------
